@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"1157ba369461a1db","type":"file","file":"attachment/rust哈希表练习.png","x":-1009,"y":-480,"width":799,"height":320},
+		{"id":"90e679dd49d556ad","type":"file","file":"knowledge_base/rust/HashMap的使用方法.md","x":-20,"y":-540,"width":378,"height":299},
+		{"id":"c9367f484ceefacd","type":"text","text":"创建一个文本接口来允许用户向公司的部门中**增加员工的名字**","x":-240,"y":-87,"width":310,"height":113},
+		{"id":"75e7f85937997ad6","type":"text","text":"让用户**获取**一个部门的所有员工的列表","x":-257,"y":69,"width":344,"height":100},
+		{"id":"c1ff0148992a270d","type":"text","text":"让用户**获取**每个部门的所有员工按照字典序排列的列表","x":-257,"y":260,"width":340,"height":103},
+		{"id":"a85238dd602d31b0","type":"text","text":"使用说明","x":-883,"y":282,"width":250,"height":60},
+		{"id":"e593fb1e4efd5e6a","type":"text","text":"使用哈希 map 和 vector，创建一个文本接口来允许用户向公司的部门中增加员工的名字。例如，“Add Sally to Engineering” 或 “Add Amir to Sales”。接着让用户获取一个部门的所有员工的列表，或者公司每个部门的所有员工按照字典序排列的列表。","x":-911,"y":-77,"width":556,"height":206}
+	],
+	"edges":[
+		{"id":"6af79b759cfad351","fromNode":"1157ba369461a1db","fromSide":"right","toNode":"90e679dd49d556ad","toSide":"left"}
+	]
+}
